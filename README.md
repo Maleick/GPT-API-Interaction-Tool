@@ -1,6 +1,3 @@
-# GPT-API-Interaction-Tool
-This repository hosts a user-friendly, command-line Python tool that enables seamless interaction with OpenAI's powerful GPT API.
-
 # GPT API Interaction Tool
 
 This repository contains a simple command-line Python tool for interacting with OpenAI's GPT API. The tool allows users to send text inputs to the GPT API and receive responses in a conversational format. The code is written in Python and uses the OpenAI Python library to communicate with the GPT API.
