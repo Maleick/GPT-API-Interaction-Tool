@@ -17,22 +17,22 @@ This repository contains a simple command-line Python tool for interacting with 
 
 1. Clone the repository:
 
-```git clone https://github.com/Maleick/gpt-api-interaction-tool.git```
+```git clone https://github.com/Maleick/GPT-API-Interaction-Tool.git```
 
 2. Enter the repository's directory:
 
-```cd gpt-api-interaction-tool```
+```cd GPT-API-Interaction-Tool```
 
 3. Install the required Python packages:
 
 ```pip install -r requirements.txt```
 
-(Replace `your_api_key_here` with your actual API key)
+(Replace `your_api_key_here` in the key.txt with your actual API key)
 
 ## Usage
 
 1. Run the script:
-```python gpt_api_tool.py```
+```python gait.py```
 
 2. Follow the on-screen instructions to interact with the GPT API.
 
